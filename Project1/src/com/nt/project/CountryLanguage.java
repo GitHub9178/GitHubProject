@@ -9,5 +9,6 @@ public class CountryLanguage {
    for(Locale locales:l) {
 	   System.out.println("country are::"+locales.getCountry());
    }
+   //hiii123
  }
 }
