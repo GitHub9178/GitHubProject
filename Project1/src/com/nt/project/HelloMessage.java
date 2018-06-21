@@ -6,6 +6,7 @@ public class HelloMessage {
 	
 		System.out.println("Hii");
 	    WishGenerator.wish("susanta");
+	    System.out.println("hii");
 		}
 	}
 	
